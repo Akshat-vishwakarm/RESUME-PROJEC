@@ -132,17 +132,17 @@
     
  
 .btn {
-    margin: 0; /* Remove margin */
+    margin: 0;
     padding: 15px 40px;
     border: none;
     outline: none;
     color: #FFF;
     cursor: pointer;
-    position: absolute; /* Change to absolute positioning */
+    position: absolute;
     z-index: 0;
     border-radius: 12px;
-    top: 20px; /* Set top position */
-    left: 20px; /* Set left position */
+    top: 20px; 
+    left: 20px;
     align-items: center;
 }
 
@@ -208,17 +208,17 @@
 
 
 .btnI {
-    margin: 0; /* Remove margin */
+    margin: 0;
     padding: 15px 40px;
     border: none;
     outline: none;
     color: #FFF;
     cursor: pointer;
-    position: absolute; /* Keep absolute positioning */
+    position: absolute;
     z-index: 0;
     border-radius: 12px;
-    bottom: 20px; /* Set bottom position */
-    left: 20px; /* Keep left position */
+    bottom: 20px;
+    left: 20px;
     align-items: center;
 }
 
@@ -282,17 +282,17 @@
 
 
 .btn2 {
-    margin: 0; /* Remove margin */
+    margin: 0;
     padding: 15px 40px;
     border: none;
     outline: none;
     color: #FFF;
     cursor: pointer;
-    position: absolute; /* Keep absolute positioning */
+    position: absolute;
     z-index: 0;
     border-radius: 12px;
-    top: 20px; /* Set top position */
-    right: 20px; /* Set right position */
+    top: 20px; 
+    right: 20px;
     align-items: center;
     text-align: center;
     
@@ -362,17 +362,17 @@
 
 
 .btn3 {
-    margin: 0; /* Remove margin */
+    margin: 0; 
     padding: 15px 40px;
     border: none;
     outline: none;
     color: #FFF;
     cursor: pointer;
-    position: absolute; /* Keep absolute positioning */
+    position: absolute;
     z-index: 0;
     border-radius: 12px;
-    bottom: 20px; /* Set bottom position */
-    right: 20px; /* Set right position */
+    bottom: 20px;
+    right: 20px;
     align-items: center;
 }
 
@@ -433,12 +433,12 @@
 
 h1{
     position: absolute;
-    bottom: 20px; /* Adjust as needed */
+    bottom: 20px; 
     left: 50%;
     transform: translateX(-50%);
-    max-width: 800px; /* Maximum width */
-    width: 90%; /* Responsive width */
-    height: auto; /* Maintain aspect ratio */
+    max-width: 800px; 
+    width: 90%;
+    height: auto; 
     display: block;
 }
 
@@ -450,18 +450,18 @@ body, html {
 
 .image-container {
     position: relative;
-    height: 100%; /* Full height of the viewport */
+    height: 100%; 
 }
 
 .bottom-center-image {
     position: absolute;
-    bottom: 20px; /* Adjust as needed */
+    bottom: 20px;
     left: 50%;
     transform: translateX(-50%);
-    max-width: 800px; /* Maximum width */
-    width: 90%; /* Responsive width */
-    height: auto; /* Maintain aspect ratio */
-    display: block; /* Center the image horizontally */
+    max-width: 800px; 
+    width: 90%; 
+    height: auto; 
+    display: block; 
 }
 
 
